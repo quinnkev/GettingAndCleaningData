@@ -47,7 +47,7 @@ colnames(x_df)[80:81] <- c("activity","subject")
 tidydata <- aggregate(. ~ subject+activity, data=x_df, FUN=mean)
 
 #Write this to a text file
-write.csv(tidydata,"./tidydata.csv")
+write.csv(tidydata,"./tidydata.csv", row.names=FALSE)
 
 
 
