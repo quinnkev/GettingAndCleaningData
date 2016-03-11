@@ -51,5 +51,5 @@ tBodyGyroMean
 tBodyGyroJerkMean
 
 These variables are complemented with additional dimensions identifying the subject and activity and aggregated to show the average for each variable by:
-subject -- the person in the test set
+subject -- the person in the test set; and by
 activity -- the event performed by the subject
