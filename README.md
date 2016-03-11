@@ -5,3 +5,4 @@ This repo contains the following files:
 Codebook.md -- the document describing the  dataset, transformations and outputs
 run_analysis.R -- the script which processes the data and writes the results to a new csv file
 README.md -- description of the repo files
+tidydata.csv -- the tidy data set output by run_analysis.R
