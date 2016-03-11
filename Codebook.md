@@ -1,3 +1,11 @@
+The source files for this project are located at:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+The full description of the data is available at:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+Before running these scripts, download and extract the source files above into your R working directory.
+
 Feature Selection 
 =================
 
