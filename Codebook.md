@@ -53,3 +53,5 @@ tBodyGyroJerkMean
 These variables are complemented with additional dimensions identifying the subject and activity and aggregated to show the average for each variable by:
 subject -- the person in the test set; and by
 activity -- the event performed by the subject
+
+The aggregated data by subject and activity is available in this repo as tidydata.csv
